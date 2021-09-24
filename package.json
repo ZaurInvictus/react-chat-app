@@ -1,0 +1,24 @@
+{
+  "name": "react-chat-app",
+  "version": "1.0.0",
+  "description": "Node/React chat app using Socket IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaurInvictus/react-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaurInvictus/react-chat-app/issues"
+  },
+  "homepage": "https://github.com/ZaurInvictus/react-chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
